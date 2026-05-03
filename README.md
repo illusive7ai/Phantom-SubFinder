@@ -4,7 +4,7 @@ Ultimate Reconnaissance Tool | Subdomain Discovery | Network Mapping
 
 ---
 
-## Table of Contents
+## Table of Contents.
 
 1. Overview
 2. Features
